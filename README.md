@@ -37,7 +37,7 @@ A professional YouTube audio downloading application developed with Python using
 1. **Install FFmpeg** (required):
    - [Official installation guide](https://ffmpeg.org/download.html)
    - [Video tutorial](https://youtu.be/JR36oH35Fgg)
-2. Download the latest release from the [Releases Section](https://github.com/your-username/your-repo/releases)
+2. Download the latest release from the [Releases Section](https://github.com/KernelPhilosopher/Audio-Downloader-Pro/tree/main/YT_Audio_Downloader/dist)
 
 3. Run `YT_Audio_Downloader.exe`
 
