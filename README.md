@@ -45,10 +45,10 @@ A professional YouTube audio downloading application developed with Python using
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/audio-downloader-pro.git
+git clone https://github.com/KernelPhilosopher/Audio-Downloader-Pro.git
 
 # Navigate to project directory
-cd audio-downloader-pro
+cd YT_Audio_Downloader
 
 # Install dependencies
 pip install -r requirements.txt
